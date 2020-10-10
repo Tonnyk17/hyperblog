@@ -31,3 +31,15 @@ body
 {
     font-size: 20px;
 }
+
+#pag #footer
+{
+    background: gray;
+}
+
+#footer{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
